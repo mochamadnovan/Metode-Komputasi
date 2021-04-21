@@ -1,4 +1,3 @@
-# Metode-Komputasi
 # 👋 Hallo, perkenalkan nama saya Mochamad Novan. 
 # Saya biasa dipanggil Novan.
 # Saat ini saya berstatus sebagai mahasiswa Universitas Gadjah Mada Program Studi Geofisika.
